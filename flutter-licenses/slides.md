@@ -29,7 +29,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 Decide on which of the two simple way you want to use:
 
-- The `showLicensePage()` function.
+- The `showLicensePage()` and/or `showAboutDialog()` functions.
 
 ![](method-call.png)
 
